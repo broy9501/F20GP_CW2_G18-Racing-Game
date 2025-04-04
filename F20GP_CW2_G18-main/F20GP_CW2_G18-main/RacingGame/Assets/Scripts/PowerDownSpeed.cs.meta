@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 949117630f344884fa6180280cbf27a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carMovement: {instanceID: 0}
+  - powerDownSound: {fileID: 8300000, guid: 76b8dbc696e3b2647ad24b100b1e53fb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
